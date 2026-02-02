@@ -16,7 +16,7 @@ Here is a look at the application in action:
 
 | **Main Menu (Admin Mode)** | **Standard User Mode** | **System Tools** |
 |:---:|:---:|:---:|
-| ![Main Menu](screenshot.png) | ![Standard Mode](screenshot2.png) | ![Tools](screenshot3.png) |
+| ![Main Menu](screenshot2.png) | ![Standard Mode](screenshot3.png) | ![Tools](screenshot.png) |
 
 ---
 
